@@ -18,4 +18,4 @@ Simple React (frontend-only) application that allows users to register, log in, 
 
 ## Notes
 - This is a basic implementation for demo / test submission.
-- Passwords are stored in plain text in localStorage for simplicity. For production you must use a backend and hash passwords.
+- Passwords are stored in plain text in localStorage for simplicity.
